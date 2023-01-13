@@ -1,2 +1,2 @@
 # Chess.in
-Chess.in
+Chess.in is a multiplayer chess game which allows user to play chess with his/her friends over a local area network. The game is written in python and tkinter module is used for GUI requirements. The game with network programming as its backbone uses in-house developed networking framework for communication with the server. This also contains moves generator which can generate all valid moves of all pieces which is used in evaluating checkmate conditions. Custom made GUI components are also used in the game. The repository contains both server side and client side scripts.
